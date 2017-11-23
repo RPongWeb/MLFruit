@@ -16,7 +16,7 @@ The more training data you have , the better classifier you can create!
 Our two variables will be features and labels. 
 Features contains the texture and weight while labels contain the name of the fruit. 
 
-e.g - Apple , Organes , and Grapes would be labels. 
+e.g - Apple , Oranges , and Grapes would be labels. 
 e.g - smooth , bumpy, and hard would be Features 
 
 # Features are like the input to the classifer and labels as the output. 
